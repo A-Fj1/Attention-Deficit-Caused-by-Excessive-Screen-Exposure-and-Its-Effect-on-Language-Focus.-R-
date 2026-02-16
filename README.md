@@ -1,11 +1,9 @@
 # Statistical Data Analysis Project (R)
 
 ## Overview
-A statistical data analysis project completed as part of a Statistics course using R.
 
-The dataset was collected through a self-designed survey. The cleaned dataset and full analysis workflow are documented in the Kaggle.
-
----
+This project examines the relationship between screen time and attention deficit symptoms among children using survey-based data.
+The analysis explores screen usage patterns, social interactions, and engagement in alternative activities to provide practical insights for parents and educators on promoting healthier screen habits.---
 
 ## Objectives
 - Design and conduct a structured survey
@@ -16,13 +14,5 @@ The dataset was collected through a self-designed survey. The cleaned dataset an
 
 ---
 
-## Data Source
-- Type: Self-designed survey
-- Platform for analysis: R (documented in Kaggle notebook)
-- Note: Original raw dataset is not included in this repository.
 
 
----
-
-## Conclusion
-This project demonstrates practical experience in survey-based data collection, statistical analysis, and interpretation using R, with the complete workflow documented on Kaggle.
