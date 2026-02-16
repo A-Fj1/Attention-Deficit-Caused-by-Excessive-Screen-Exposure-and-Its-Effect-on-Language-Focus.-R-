@@ -3,7 +3,7 @@
 ## Overview
 
 This project examines the relationship between screen time and attention deficit symptoms among children using survey-based data.
-The analysis explores screen usage patterns, social interactions, and engagement in alternative activities to provide practical insights for parents and educators on promoting healthier screen habits.---
+The analysis explores screen usage patterns, social interactions, and engagement in alternative activities to provide practical insights for parents and educators on promoting healthier screen habits.
 
 ## Objectives
 - Design and conduct a structured survey
